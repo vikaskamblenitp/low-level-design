@@ -1,7 +1,7 @@
-package com.vikas.lld.strategypattern.car;
+package com.vikas.lld.strategyPattern.car;
 
-import com.vikas.lld.strategypattern.Vehicle;
-import com.vikas.lld.strategypattern.strategy.DriveStrategy;
+import com.vikas.lld.strategyPattern.Vehicle;
+import com.vikas.lld.strategyPattern.strategy.DriveStrategy;
 
 public abstract class Car extends Vehicle {
     public Car(DriveStrategy strategy) {

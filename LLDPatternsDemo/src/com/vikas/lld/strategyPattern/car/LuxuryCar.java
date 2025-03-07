@@ -1,6 +1,6 @@
-package com.vikas.lld.strategypattern.car;
+package com.vikas.lld.strategyPattern.car;
 
-import com.vikas.lld.strategypattern.strategy.FastDrivingStrategy;
+import com.vikas.lld.strategyPattern.strategy.FastDrivingStrategy;
 
 public class LuxuryCar extends Car {
     public LuxuryCar() {

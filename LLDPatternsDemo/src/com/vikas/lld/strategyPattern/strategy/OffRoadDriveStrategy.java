@@ -1,4 +1,4 @@
-package com.vikas.lld.strategypattern.strategy;
+package com.vikas.lld.strategyPattern.strategy;
 
 public class OffRoadDriveStrategy implements  DriveStrategy{
     @Override

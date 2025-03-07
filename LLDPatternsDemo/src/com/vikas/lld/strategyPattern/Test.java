@@ -1,9 +1,9 @@
-package com.vikas.lld.strategypattern;
+package com.vikas.lld.strategyPattern;
 
-import com.vikas.lld.strategypattern.car.Car;
-import com.vikas.lld.strategypattern.car.LuxuryCar;
-import com.vikas.lld.strategypattern.trucks.OffRoadTrucks;
-import com.vikas.lld.strategypattern.trucks.Trucks;
+import com.vikas.lld.strategyPattern.car.Car;
+import com.vikas.lld.strategyPattern.car.LuxuryCar;
+import com.vikas.lld.strategyPattern.trucks.OffRoadTrucks;
+import com.vikas.lld.strategyPattern.trucks.Trucks;
 
 public class Test {
     public static void main(String[] args) {

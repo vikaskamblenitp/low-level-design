@@ -1,6 +1,6 @@
-package com.vikas.lld.strategypattern;
+package com.vikas.lld.strategyPattern;
 
-import com.vikas.lld.strategypattern.strategy.DriveStrategy;
+import com.vikas.lld.strategyPattern.strategy.DriveStrategy;
 
 public abstract class Vehicle {
     public DriveStrategy strategy;

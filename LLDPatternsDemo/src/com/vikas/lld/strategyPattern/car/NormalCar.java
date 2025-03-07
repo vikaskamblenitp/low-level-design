@@ -1,6 +1,6 @@
-package com.vikas.lld.strategypattern.car;
+package com.vikas.lld.strategyPattern.car;
 
-import com.vikas.lld.strategypattern.strategy.NormalDrivingStrategy;
+import com.vikas.lld.strategyPattern.strategy.NormalDrivingStrategy;
 
 public class NormalCar extends Car {
 

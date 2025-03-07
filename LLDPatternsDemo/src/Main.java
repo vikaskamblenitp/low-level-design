@@ -1,5 +1,5 @@
-import com.vikas.lld.strategypattern.car.Car;
-import com.vikas.lld.strategypattern.car.LuxuryCar;
+import com.vikas.lld.strategyPattern.car.Car;
+import com.vikas.lld.strategyPattern.car.LuxuryCar;
 
 public class Main {
     public static void main(String[] args) {
